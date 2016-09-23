@@ -1,9 +1,9 @@
 keycode   8 =
 keycode   9 = Escape NoSymbol Escape
-keycode  10 = 1 exclam 1 exclam exclamdown onesuperior
-keycode  11 = 2 quotedbl 2 quotedbl at twosuperior
-keycode  12 = 3 numbersign 3 numbersign sterling threesuperior
-keycode  13 = 4 EuroSign 4 EuroSign EuroSign onequarter
+keycode  10 = 1 exclam 1 exclam exclamdown macron
+keycode  11 = 2 quotedbl 2 quotedbl leftdoublequotemark rightdoublequotemark
+keycode  12 = 3 numbersign 3 numbersign section dollar
+keycode  13 = 4 EuroSign 4 EuroSign sterling cent
 keycode  14 = 5 percent 5 percent onehalf cent
 keycode  15 = 6 ampersand 6 ampersand yen fiveeighths
 keycode  16 = 7 slash 7 slash braceleft division
